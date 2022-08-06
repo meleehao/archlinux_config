@@ -5,12 +5,13 @@ window:
 live_config_reload: true
 
 font:
-  size: 7
-
-  bold:
-    family: Sarasa Term SC 
+  size: 8
+  normal:
+    family: Sarasa Term SC Nerd Font
     style: Semibold Italic
-
+  bold: 
+    family: Sarasa Term SC Nerd Font
+    style: Semibold Italic
 colors:
   primary:
     foreground: '0xeeeeec'
